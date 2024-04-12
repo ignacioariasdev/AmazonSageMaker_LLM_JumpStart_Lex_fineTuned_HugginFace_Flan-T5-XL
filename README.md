@@ -10,4 +10,5 @@ Developed a chatbot LLM integrating Amazon Lex, a fine-tuned Hugging Face Flan-T
   Pronoun Resolution
 
 
-![Uploading Infrastructure.png…]()
+![Infrastructure](https://github.com/marlhex/AmazonSageMaker_LLM_JumpStart_Lex_fineTuned_HugginFace_Flan-T5-XL/assets/4165637/52da4c3a-521c-43f1-a08d-5c55ad66e781)
+
